@@ -1,0 +1,49 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <AssemblyName>Testing_ssh_csharp</AssemblyName>
+    <RootNamespace>Simple_Inventory</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="DiffieHellman">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\DiffieHellman.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleSearchAPI">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\GoogleSearchAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\HtmlAgilityPack.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="Org.Mentalis.Security">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Org.Mentalis.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Tamir.SharpSSH">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Tamir.SharpSSH.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.Core">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.Design">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.SSRS">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.SSRS.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.SSRS.Design">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.SSRS.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.Web">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Zen.Barcode.Web.Mvc">
+      <HintPath>..\..\..\..\Documents\SSEL_Git\ssel_team\Testing_ssh_csharp\ConsoleApp1\bin\Debug\Zen.Barcode.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

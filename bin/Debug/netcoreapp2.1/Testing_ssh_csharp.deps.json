@@ -1,0 +1,193 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Testing_ssh_csharp/1.0.0": {
+        "dependencies": {
+          "DiffieHellman": "0.0.0.0",
+          "GoogleSearchAPI": "0.4.0.133",
+          "HtmlAgilityPack": "1.4.6.0",
+          "Newtonsoft.Json": "3.5.0.0",
+          "Org.Mentalis.Security": "1.0.13.715",
+          "Tamir.SharpSSH": "1.1.1.13",
+          "Zen.Barcode.Core": "3.1.0.0",
+          "Zen.Barcode.Design": "3.1.0.0",
+          "Zen.Barcode.SSRS.Design": "3.1.0.0",
+          "Zen.Barcode.SSRS": "3.1.0.0",
+          "Zen.Barcode.Web": "3.1.0.0",
+          "Zen.Barcode.Web.Mvc": "3.1.0.0"
+        },
+        "runtime": {
+          "Testing_ssh_csharp.dll": {}
+        }
+      },
+      "DiffieHellman/0.0.0.0": {
+        "runtime": {
+          "DiffieHellman.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.0.0.0"
+          }
+        }
+      },
+      "GoogleSearchAPI/0.4.0.133": {
+        "runtime": {
+          "GoogleSearchAPI.dll": {
+            "assemblyVersion": "0.4.0.133",
+            "fileVersion": "0.4.0.133"
+          }
+        }
+      },
+      "HtmlAgilityPack/1.4.6.0": {
+        "runtime": {
+          "HtmlAgilityPack.dll": {
+            "assemblyVersion": "1.4.6.0",
+            "fileVersion": "1.4.6.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/3.5.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "3.5.0.0",
+            "fileVersion": "3.5.0.0"
+          }
+        }
+      },
+      "Org.Mentalis.Security/1.0.13.715": {
+        "runtime": {
+          "Org.Mentalis.Security.dll": {
+            "assemblyVersion": "1.0.13.715",
+            "fileVersion": "1.0.13.715"
+          }
+        }
+      },
+      "Tamir.SharpSSH/1.1.1.13": {
+        "runtime": {
+          "Tamir.SharpSSH.dll": {
+            "assemblyVersion": "1.1.1.13",
+            "fileVersion": "1.1.1.13"
+          }
+        }
+      },
+      "Zen.Barcode.Core/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.Core.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      },
+      "Zen.Barcode.Design/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.Design.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      },
+      "Zen.Barcode.SSRS.Design/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.SSRS.Design.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      },
+      "Zen.Barcode.SSRS/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.SSRS.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      },
+      "Zen.Barcode.Web/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.Web.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      },
+      "Zen.Barcode.Web.Mvc/3.1.0.0": {
+        "runtime": {
+          "Zen.Barcode.Web.Mvc.dll": {
+            "assemblyVersion": "3.1.0.0",
+            "fileVersion": "3.1.10729.65535"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Testing_ssh_csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DiffieHellman/0.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GoogleSearchAPI/0.4.0.133": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HtmlAgilityPack/1.4.6.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/3.5.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Org.Mentalis.Security/1.0.13.715": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Tamir.SharpSSH/1.1.1.13": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.Core/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.Design/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.SSRS.Design/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.SSRS/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.Web/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Zen.Barcode.Web.Mvc/3.1.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
